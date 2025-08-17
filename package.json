@@ -1,0 +1,19 @@
+{
+  "name": "scrappingtoolcli",
+  "version": "1.0.0",
+  "description": "A web scraper allowing user to navigate a website through code and capture information from web pages.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "Tuan Vo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
